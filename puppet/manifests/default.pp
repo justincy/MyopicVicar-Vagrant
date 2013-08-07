@@ -1,0 +1,3 @@
+# Puppet manifest
+
+# include apt
