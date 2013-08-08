@@ -1,7 +1,7 @@
 MyopicVicar-Vagrant
 ===================
 
-Vagrantfile for MyopicVicar
+Vagrantfile for [MyopicVicar](https://github.com/FreeUKGen/MyopicVicar)
 
 Installation
 ------------
@@ -18,5 +18,5 @@ Installation
 Requirements
 ------------
 
-* Virtualbox
-* Vagrant
+* [Virtualbox](https://www.virtualbox.org/)
+* [Vagrant](http://www.vagrantup.com/)
